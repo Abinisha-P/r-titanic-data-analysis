@@ -17,7 +17,7 @@ This project follows one dataset, the Titanic passenger data, through the full d
 | `week1_titanic_cleaning.R` | Data cleaning, outlier handling, scaling, encoding and correlations (Week 1) |
 | `week2_titanic_visualization.R` | 10 ggplot2 charts with interpretation (Week 2) |
 | `week3_titanic_modeling.R` | Hypothesis tests, logistic regression models, cross-validation and diagnostics (Week 3) |
-| `plots/` | Charts from Week 1 (8 charts) |
+| `plots_week1/` | Charts from Week 1 (8 charts) |
 | `plots_week2/` | Charts from Week 2 (10 charts) |
 | `plots_week3/` | Charts from Week 3 (7 charts) |
 | `titanic_clean.csv` / `titanic_clean.rds` | Cleaned dataset created in Week 1 and reused in later weeks |
